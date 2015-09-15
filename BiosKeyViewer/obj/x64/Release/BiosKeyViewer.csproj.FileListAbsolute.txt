@@ -1,0 +1,17 @@
+C:\Users\Xcom\Desktop\#SOFTWARE\msdm\BiosKeyViewer\BiosKeyViewer\bin\x64\Release\BiosKeyViewer.exe.config
+C:\Users\Xcom\Desktop\#SOFTWARE\msdm\BiosKeyViewer\BiosKeyViewer\bin\x64\Release\BiosKeyViewer.exe
+C:\Users\Xcom\Desktop\#SOFTWARE\msdm\BiosKeyViewer\BiosKeyViewer\bin\x64\Release\BiosKeyViewer.pdb
+C:\Users\Xcom\Desktop\#SOFTWARE\msdm\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.Form1.resources
+C:\Users\Xcom\Desktop\#SOFTWARE\msdm\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.Properties.Resources.resources
+C:\Users\Xcom\Desktop\#SOFTWARE\msdm\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.csproj.GenerateResource.Cache
+C:\Users\Xcom\Desktop\#SOFTWARE\msdm\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.exe
+C:\Users\Xcom\Desktop\#SOFTWARE\msdm\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.pdb
+E:\Essentials\Primary\# RomelSan Apps\Windows APPS\2014\msdm table\BiosKeyViewer\BiosKeyViewer\bin\x64\Release\BiosKeyViewer.exe.config
+E:\Essentials\Primary\# RomelSan Apps\Windows APPS\2014\msdm table\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.exe
+E:\Essentials\Primary\# RomelSan Apps\Windows APPS\2014\msdm table\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.pdb
+E:\Essentials\Primary\# RomelSan Apps\Windows APPS\2014\msdm table\BiosKeyViewer\BiosKeyViewer\bin\x64\Release\BiosKeyViewer.exe
+E:\Essentials\Primary\# RomelSan Apps\Windows APPS\2014\msdm table\BiosKeyViewer\BiosKeyViewer\bin\x64\Release\BiosKeyViewer.pdb
+E:\Essentials\Primary\# RomelSan Apps\Windows APPS\2014\msdm table\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.csprojResolveAssemblyReference.cache
+E:\Essentials\Primary\# RomelSan Apps\Windows APPS\2014\msdm table\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.Form1.resources
+E:\Essentials\Primary\# RomelSan Apps\Windows APPS\2014\msdm table\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.Properties.Resources.resources
+E:\Essentials\Primary\# RomelSan Apps\Windows APPS\2014\msdm table\BiosKeyViewer\BiosKeyViewer\obj\x64\Release\BiosKeyViewer.csproj.GenerateResource.Cache
