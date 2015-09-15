@@ -2,7 +2,7 @@
 View Windows Bios Key
 
 #### Features
-- [x] Get key from MDSM table
+- [x] Get key from MSDM table
 - [x] Get key using Management Object
 
 ### Basic Usage
